@@ -1,6 +1,5 @@
 # todo-cli
 
-
 <h3>Requirements</h3>
 
 [Requirements for this project](docs/Requirements)
