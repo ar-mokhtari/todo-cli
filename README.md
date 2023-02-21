@@ -27,7 +27,7 @@ target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=f
 
 for continue on existing repo:
 ````
-cd existing_repo
+cd todo-cli
 git init
 git remote add origin `git address`
 git branch -M main
